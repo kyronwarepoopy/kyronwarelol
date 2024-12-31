@@ -68,11 +68,11 @@ local sections = {}
 -- Theme Variables
 --local themes = {}
 local theme = {
-    accent = Color3.fromRGB(43, 41, 43),
+    accent = Color3.fromRGB(23, 23, 23),
     lightcontrast = Color3.fromRGB(30, 30, 30),
     darkcontrast = Color3.fromRGB(12, 12, 12),
     outline = Color3.fromRGB(0, 0, 0),
-    inline = Color3.fromRGB(78, 78, 78),
+    inline = Color3.fromRGB(50, 50, 50),
     textcolor = Color3.fromRGB(255, 255, 255),
     textdark = Color3.fromRGB(175, 175, 175),
     textborder = Color3.fromRGB(0, 0, 0),
