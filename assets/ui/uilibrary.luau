@@ -1,4 +1,5 @@
 --[[
+  Shootout to the original maker of the gamesneeze ui, none of this is mine other than the modded color scheme
   Library might be a bit outdated as I did not save it
   Downloaded from history so not sure if this is the most recent version
   Fix the stuff urself if its not
