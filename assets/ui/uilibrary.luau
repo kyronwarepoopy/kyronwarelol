@@ -1,4 +1,5 @@
 --[[
+  Shootout to the original maker of the gamesneeze ui, none of this is mine other than the modded color scheme
   Library might be a bit outdated as I did not save it
   Downloaded from history so not sure if this is the most recent version
   Fix the stuff urself if its not
@@ -68,16 +69,18 @@ local sections = {}
 -- Theme Variables
 --local themes = {}
 local theme = {
-    accent = Color3.fromRGB(102, 51, 204), 
-    lightcontrast = Color3.fromRGB(40, 40, 70), 
-    darkcontrast = Color3.fromRGB(20, 20, 50), 
-    outline = Color3.fromRGB(10, 10, 30), 
-    inline = Color3.fromRGB(60, 60, 90),
-    textcolor = Color3.fromRGB(220, 220, 220),
-    textdark = Color3.fromRGB(200, 200, 200),
-    textborder = Color3.fromRGB(0, 0, 0), 
-    cursoroutline = Color3.fromRGB(30, 30, 50),
-    
+   background = Color3.fromRGB(21, 21, 21),
+   accent = Color3.fromRGB(46,46,46),
+   lightcontrast = Color3.fromRGB(39, 39, 39),
+   darkcontrast = Color3.fromRGB(29, 29, 29),
+   outline = Color3.fromRGB(24, 24, 24),
+   inline = Color3.fromRGB(49, 49, 49),
+   textcolor = Color3.fromRGB(200, 200, 200),
+   textdark = Color3.fromRGB(180, 180, 180),
+   textborder = Color3.fromRGB(10, 10, 10),
+   cursoroutline = Color3.fromRGB(44, 44, 44),
+
+
     font = 2,
     textsize = 13
 }
